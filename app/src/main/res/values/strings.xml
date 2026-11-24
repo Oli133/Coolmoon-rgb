@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CoolMoon RGB</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_zones">Zones</string>
+    <string name="nav_presets">Presets</string>
+    <string name="nav_connect">Connect</string>
+    <string name="power_on">ON</string>
+    <string name="power_off">OFF</string>
+    <string name="ai_firebase_notice">AI features require Firebase. Showing sample Gemini 4 Carbon (High Thinking) lighting plans.</string>
+    <string name="virtual_rig_label">Virtual Rig Preview</string>
+</resources>

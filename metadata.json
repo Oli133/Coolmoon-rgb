@@ -1,0 +1,8 @@
+{
+  "name": "CoolMoon RGB",
+  "description": "Smart RGB and ARGB lighting controller for CoolMoon fans, LED strips, and hubs with BLE/Wi-Fi control and an AI Lighting Architect.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
